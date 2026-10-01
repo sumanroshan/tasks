@@ -1,0 +1,81 @@
+header{
+    background-image:url(./back1.jpg);
+    color: white;
+    height: 20px;
+    display: flex;
+    justify-content:space-between;
+    padding: 20px;
+}
+nav{
+    font-size: 25px;
+}
+a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+input{
+    font-size: 20px;
+}
+.head2{
+    background-image: url(./bg2);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+
+
+}
+select{
+    color: rgb(213, 15, 15);
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+    
+}
+.type{
+    color: white;
+    display: flex;
+    gap: 90px;
+    padding-top: 20PX;
+}
+.menu{
+    padding: 20px;
+}
+.categorices a{
+    background-image: url(./kitchen.png);
+    width: 10px;
+    height: 10px;
+    
+
+}
+.categorices{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.foode{
+    display: flex;
+    justify-content: center;
+    background-image: url(bg2);
+    color: black;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    background-color: yellow;
+    font-size: 15px;
+    border-radius: 8px;
+    width: 100px;
+}
+body{
+    background-image: url(./full\ back.jpg);
+
+}
+.lastborder h4{
+    background-color: rgb(13, 89, 194);
+    justify-content: center;
+    height: 25px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
